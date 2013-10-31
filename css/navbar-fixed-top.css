@@ -1,0 +1,52 @@
+body {
+  min-height:2000px;
+  padding-top: 50px;
+}
+
+.container{
+	width:860px;
+	}
+
+.navbar-inverse{
+	float:right;
+	background-color:#f2efed;
+	}
+
+.jumbotron{
+	height:600px;
+	}
+	
+#startnav{
+	position:absolute;
+	z-index:101;
+	margin:370px 0 0 -100px;	
+	}
+
+#page1{
+	width:100%;
+	height:605px;
+	border-bottom:solid 2px #f2efed;
+	padding:200px 0 100px 0;
+	}
+	
+
+/*mission page*/
+#missioncontent{
+	float:left;
+	width:50%;
+	}
+
+/*mission navigation*/
+
+#missionnav{
+	float:right;
+	width:30%;
+	font-family:'merriweather sans', sans-serif;
+	font-weight:800;
+	font-size:1.125em;
+	}
+
+.btn{
+	background-color:#fbf8f6;
+	border-bottom:solid 1px #f2efed;
+	}

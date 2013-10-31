@@ -1,0 +1,98 @@
+body {
+  min-height:2000px;
+  padding-top: 50px;
+}
+
+
+.navbar{
+	padding:0 8.5%;
+	}
+
+.jumbotron{
+	height:600px;
+	}
+	
+#startnav{
+	position:absolute;
+	z-index:101;
+	margin:26% 0 0 -100px;	
+	}
+
+#page1{
+	width:100%;
+	height:500px;
+	border-bottom:solid 2px #f2efed;
+	padding:10% 0 7% 0;
+	}
+
+#page2{
+	width:100%;
+	border-bottom:solid 2px #f2efed;
+	padding:10% 0 7% 0;
+	}
+#page3{
+	width:100%;
+	border-bottom:solid 2px #f2efed;
+	padding:10% 0 7% 0;
+	}	
+
+/*mission page*/
+#missioncontent{
+	float:left;
+	width:50%;
+	}
+
+/*mission navigation*/
+
+#missionnav{
+	float:right;
+	width:30%;
+	font-family:'merriweather sans', sans-serif;
+	font-weight:800;
+	font-size:1.125em;
+	}
+
+#contactquote{
+	font-size:48px;
+	font-style:italic;
+	font-weight:300;
+	}
+
+#imgpadding{
+	padding:5% 0;
+	}
+
+.thumbnail{
+	background-color:#f2efed;
+	-moz-border-radius:20px;
+	border-radius:20px;
+	overflow:hidden;
+	}
+.btn{
+	background-color:#fbf8f6;
+	border-bottom:solid 1px #f2efed;
+	}
+	
+/*friends/advisors page*/
+
+#companies{
+	height:100px;
+	background-color:#f2efed;
+	margin-bottom:45px;
+	list-style-type:none;
+	}	
+	
+.list-group-item{
+	border:hidden;
+	}
+
+
+footer{
+	width:100%;
+	background:#F7941D;
+	padding-top:2%;
+	}
+
+@media (max-width: 768px) {
+	
+	}
