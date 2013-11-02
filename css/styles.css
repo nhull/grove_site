@@ -62,6 +62,9 @@ body {
 	padding:5% 0;
 	}
 
+.spacer{
+	margin-top:30px;
+	}
 .thumbnail{
 	background-color:#f2efed;
 	-moz-border-radius:20px;
@@ -91,6 +94,20 @@ footer{
 	width:100%;
 	background:#F7941D;
 	padding-top:2%;
+	}
+.footertext{
+	color:#FFD59D
+	
+	}
+	
+.center-block {
+	float: none;
+    margin: 0 auto;
+}	
+
+
+.padding-top{
+	padding-top:5%
 	}
 
 @media (max-width: 768px) {
